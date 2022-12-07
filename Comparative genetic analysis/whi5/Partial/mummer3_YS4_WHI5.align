@@ -1,0 +1,68 @@
+> YS4.chr10
+> YS4.chr10 Reverse
+> YS4.chrm
+> YS4.chrm Reverse
+> YS4.chr01
+> YS4.chr01 Reverse
+> YS4.chr11
+> YS4.chr11 Reverse
+> YS4.scplasm1
+> YS4.scplasm1 Reverse
+> YS4.chr02
+> YS4.chr02 Reverse
+> YS4.chr12
+> YS4.chr12 Reverse
+> YS4.chr03
+> YS4.chr03 Reverse
+> YS4.chr13
+> YS4.chr13 Reverse
+> YS4.chr04
+> YS4.chr04 Reverse
+> YS4.chr14
+> YS4.chr14 Reverse
+> YS4.chr05
+> YS4.chr05 Reverse
+> YS4.chr15
+       1   479527    103    none      -      -
+     105   479631     72    none      1      1
+     Errors = 1
+A: aacaacgagcatcagcagcga
+B: aacaacgagcgtcagcagcga
+   ==========^==========
+     178   479704    380    none      1      1
+     Errors = 1
+A: gaacaccatcgccgccgtcac
+B: gaacaccatcaccgccgtcac
+   ==========^==========
+     559   480085     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   480139     41    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+     655   480181    149    none      1      1
+     Errors = 1
+A: cgccgccacgtcgctatcaca
+B: cgccgccacgccgctatcaca
+   ==========^==========
+     805   480331     84    none      1      1
+     Errors = 1
+A: agaagcaacaacaccgacccg
+B: agaagcaacagcaccgacccg
+   ==========^==========
+Region:          1 .. 888           479527 .. 480414           6 / 888         0.68%
+> YS4.chr15 Reverse
+> YS4.chr06
+> YS4.chr06 Reverse
+> YS4.chr16
+> YS4.chr16 Reverse
+> YS4.chr07
+> YS4.chr07 Reverse
+> YS4.chr08
+> YS4.chr08 Reverse
+> YS4.chr09
+> YS4.chr09 Reverse

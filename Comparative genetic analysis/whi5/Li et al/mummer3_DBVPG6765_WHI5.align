@@ -1,0 +1,71 @@
+> CP020157.1
+> CP020157.1 Reverse
+> CP020158.1
+> CP020158.1 Reverse
+> CP020159.1
+> CP020159.1 Reverse
+> CP020160.1
+> CP020160.1 Reverse
+> CP020161.1
+> CP020161.1 Reverse
+> CP020162.1
+> CP020162.1 Reverse
+> CP020163.1
+> CP020163.1 Reverse
+> CP020164.1
+> CP020164.1 Reverse
+> CP020165.1
+> CP020165.1 Reverse
+> CP020166.1
+> CP020166.1 Reverse
+> CP020167.1
+> CP020167.1 Reverse
+> CP020168.1
+> CP020168.1 Reverse
+> CP020169.1
+> CP020169.1 Reverse
+> CP020170.1
+> CP020170.1 Reverse
+> CP020171.1
+       1   462872     65    none      -      -
+      66   462955      6     -26      0     18
+     Errors = 18
+A: aagaacaaga------------------gcaggtacag
+B: aagaacaagaacaagaacaagaacaagagcaggtgcag
+   ==========^^^^^^^^^^^^^^^^^^======    
+      73   462962    104    none      1      1
+     Errors = 1
+A: aagagcaggtacagaacccag
+B: aagagcaggtgcagaacccag
+       ======^==========
+     178   463067    189    none      1      1
+     Errors = 1
+A: gaacaccatcgccgccgtcac
+B: gaacaccatcaccgccgtcac
+   ==========^==========
+     370   463256    188      -6      3      0
+     Errors = 3
+A: aaatgaagaagaaaatgaaaatc
+B: aaatgaagaa---aatgaaaatc
+   ==========^^^==========
+     559   463445     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   463499     41    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+     655   463541    234    none      1      1
+     Errors = 1
+A: cgccgccacgtcgctatcaca
+B: cgccgccacgccgctatcaca
+   ==========^==========
+Region:          1 .. 888           462872 .. 463774          26 / 903         2.88%
+> CP020171.1 Reverse
+> CP020172.1
+> CP020172.1 Reverse
+> CP020173.1
+> CP020173.1 Reverse

@@ -1,0 +1,63 @@
+> NCYC361.chr10
+> NCYC361.chr10 Reverse
+> NCYC361.chrm
+> NCYC361.chrm Reverse
+> NCYC361.chr01
+> NCYC361.chr01 Reverse
+> NCYC361.chr11
+> NCYC361.chr11 Reverse
+> NCYC361.scplasm1
+> NCYC361.scplasm1 Reverse
+> NCYC361.chr02
+> NCYC361.chr02 Reverse
+> NCYC361.chr12
+> NCYC361.chr12 Reverse
+> NCYC361.chr03
+> NCYC361.chr03 Reverse
+> NCYC361.chr13
+> NCYC361.chr13 Reverse
+> NCYC361.chr04
+> NCYC361.chr04 Reverse
+> NCYC361.chr14
+> NCYC361.chr14 Reverse
+> NCYC361.chr05
+> NCYC361.chr05 Reverse
+> NCYC361.chr15
+       1   485477    176    none      -      -
+     178   485654    380    none      1      1
+     Errors = 1
+A: gaacaccatcgccgccgtcac
+B: gaacaccatcaccgccgtcac
+   ==========^==========
+     559   486035     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   486089     41    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+     655   486131    149    none      1      1
+     Errors = 1
+A: cgccgccacgtcgctatcaca
+B: cgccgccacgccgctatcaca
+   ==========^==========
+     805   486281     84    none      1      1
+     Errors = 1
+A: agaagcaacaacaccgacccg
+B: agaagcaacagcaccgacccg
+   ==========^==========
+Region:          1 .. 888           485477 .. 486364           5 / 888         0.56%
+> NCYC361.chr15 Reverse
+> NCYC361.chr06
+> NCYC361.chr06 Reverse
+> NCYC361.chr16
+> NCYC361.chr16 Reverse
+> NCYC361.chr07
+> NCYC361.chr07 Reverse
+> NCYC361.chr08
+> NCYC361.chr08 Reverse
+> NCYC361.chr09
+> NCYC361.chr09 Reverse

@@ -1,0 +1,53 @@
+> Y9.chr10
+> Y9.chr10 Reverse
+> Y9.chrm
+> Y9.chrm Reverse
+> Y9.chr01
+> Y9.chr01 Reverse
+> Y9.chr11
+> Y9.chr11 Reverse
+> Y9.scplasm1
+> Y9.scplasm1 Reverse
+> Y9.chr02
+> Y9.chr02 Reverse
+> Y9.chr12
+> Y9.chr12 Reverse
+> Y9.chr03
+> Y9.chr03 Reverse
+> Y9.chr13
+> Y9.chr13 Reverse
+> Y9.chr04
+> Y9.chr04 Reverse
+> Y9.chr14
+> Y9.chr14 Reverse
+> Y9.chr05
+> Y9.chr05 Reverse
+> Y9.chr15
+       1   485179     32    none      -      -
+      34   485212    524    none      1      1
+     Errors = 1
+A: gaagcaggactagcgatgaac
+B: gaagcaggaccagcgatgaac
+   ==========^==========
+     559   485737     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   485791    276    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+Region:          1 .. 888           485179 .. 486066           3 / 888         0.34%
+> Y9.chr15 Reverse
+> Y9.chr06
+> Y9.chr06 Reverse
+> Y9.chr16
+> Y9.chr16 Reverse
+> Y9.chr07
+> Y9.chr07 Reverse
+> Y9.chr08
+> Y9.chr08 Reverse
+> Y9.chr09
+> Y9.chr09 Reverse

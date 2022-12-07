@@ -1,0 +1,63 @@
+> YIIc17_E5.chr10
+> YIIc17_E5.chr10 Reverse
+> YIIc17_E5.chrm
+> YIIc17_E5.chrm Reverse
+> YIIc17_E5.chr01
+> YIIc17_E5.chr01 Reverse
+> YIIc17_E5.chr11
+> YIIc17_E5.chr11 Reverse
+> YIIc17_E5.scplasm1
+> YIIc17_E5.scplasm1 Reverse
+> YIIc17_E5.chr02
+> YIIc17_E5.chr02 Reverse
+> YIIc17_E5.chr12
+> YIIc17_E5.chr12 Reverse
+> YIIc17_E5.chr03
+> YIIc17_E5.chr03 Reverse
+> YIIc17_E5.chr13
+> YIIc17_E5.chr13 Reverse
+> YIIc17_E5.chr04
+> YIIc17_E5.chr04 Reverse
+> YIIc17_E5.chr14
+> YIIc17_E5.chr14 Reverse
+> YIIc17_E5.chr05
+> YIIc17_E5.chr05 Reverse
+> YIIc17_E5.chr15
+       1   483552    176    none      -      -
+     178   483729    380    none      1      1
+     Errors = 1
+A: gaacaccatcgccgccgtcac
+B: gaacaccatcaccgccgtcac
+   ==========^==========
+     559   484110     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   484164     41    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+     655   484206    149    none      1      1
+     Errors = 1
+A: cgccgccacgtcgctatcaca
+B: cgccgccacgccgctatcaca
+   ==========^==========
+     805   484356     84    none      1      1
+     Errors = 1
+A: agaagcaacaacaccgacccg
+B: agaagcaacagcaccgacccg
+   ==========^==========
+Region:          1 .. 888           483552 .. 484439           5 / 888         0.56%
+> YIIc17_E5.chr15 Reverse
+> YIIc17_E5.chr06
+> YIIc17_E5.chr06 Reverse
+> YIIc17_E5.chr16
+> YIIc17_E5.chr16 Reverse
+> YIIc17_E5.chr07
+> YIIc17_E5.chr07 Reverse
+> YIIc17_E5.chr08
+> YIIc17_E5.chr08 Reverse
+> YIIc17_E5.chr09
+> YIIc17_E5.chr09 Reverse

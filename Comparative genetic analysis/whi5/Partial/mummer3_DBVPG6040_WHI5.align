@@ -1,0 +1,68 @@
+> DBVPG6040.chr10
+> DBVPG6040.chr10 Reverse
+> DBVPG6040.chrm
+> DBVPG6040.chrm Reverse
+> DBVPG6040.chr01
+> DBVPG6040.chr01 Reverse
+> DBVPG6040.chr11
+> DBVPG6040.chr11 Reverse
+> DBVPG6040.scplasm1
+> DBVPG6040.scplasm1 Reverse
+> DBVPG6040.chr02
+> DBVPG6040.chr02 Reverse
+> DBVPG6040.chr12
+> DBVPG6040.chr12 Reverse
+> DBVPG6040.chr03
+> DBVPG6040.chr03 Reverse
+> DBVPG6040.chr13
+> DBVPG6040.chr13 Reverse
+> DBVPG6040.chr04
+> DBVPG6040.chr04 Reverse
+> DBVPG6040.chr14
+> DBVPG6040.chr14 Reverse
+> DBVPG6040.chr05
+> DBVPG6040.chr05 Reverse
+> DBVPG6040.chr15
+       1   485250     71    none      -      -
+      73   485322    104    none      1      1
+     Errors = 1
+A: aagagcaggtacagaacccag
+B: aagagcaggtgcagaacccag
+   ==========^==========
+     178   485427    380    none      1      1
+     Errors = 1
+A: gaacaccatcgccgccgtcac
+B: gaacaccatcaccgccgtcac
+   ==========^==========
+     559   485808     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   485862     41    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+     655   485904    149    none      1      1
+     Errors = 1
+A: cgccgccacgtcgctatcaca
+B: cgccgccacgccgctatcaca
+   ==========^==========
+     805   486054     84    none      1      1
+     Errors = 1
+A: agaagcaacaacaccgacccg
+B: agaagcaacagcaccgacccg
+   ==========^==========
+Region:          1 .. 888           485250 .. 486137           6 / 888         0.68%
+> DBVPG6040.chr15 Reverse
+> DBVPG6040.chr06
+> DBVPG6040.chr06 Reverse
+> DBVPG6040.chr16
+> DBVPG6040.chr16 Reverse
+> DBVPG6040.chr07
+> DBVPG6040.chr07 Reverse
+> DBVPG6040.chr08
+> DBVPG6040.chr08 Reverse
+> DBVPG6040.chr09
+> DBVPG6040.chr09 Reverse

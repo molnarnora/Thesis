@@ -1,0 +1,48 @@
+> UWOPS05_227_2.chr10
+> UWOPS05_227_2.chr10 Reverse
+> UWOPS05_227_2.chrm
+> UWOPS05_227_2.chrm Reverse
+> UWOPS05_227_2.chr01
+> UWOPS05_227_2.chr01 Reverse
+> UWOPS05_227_2.chr11
+> UWOPS05_227_2.chr11 Reverse
+> UWOPS05_227_2.scplasm1
+> UWOPS05_227_2.scplasm1 Reverse
+> UWOPS05_227_2.chr02
+> UWOPS05_227_2.chr02 Reverse
+> UWOPS05_227_2.chr12
+> UWOPS05_227_2.chr12 Reverse
+> UWOPS05_227_2.chr03
+> UWOPS05_227_2.chr03 Reverse
+> UWOPS05_227_2.chr13
+> UWOPS05_227_2.chr13 Reverse
+> UWOPS05_227_2.chr04
+> UWOPS05_227_2.chr04 Reverse
+> UWOPS05_227_2.chr14
+> UWOPS05_227_2.chr14 Reverse
+> UWOPS05_227_2.chr05
+> UWOPS05_227_2.chr05 Reverse
+> UWOPS05_227_2.chr15
+       1   486694     59    none      -      -
+      66   486753    546     -20      6      0
+     Errors = 6
+A: aagaacaagaacaagagcaggtacag
+B: aagaacaaga------gcaggtacag
+   ==========^^^^^^==========
+     616   487303    273    none      4      4
+     Errors = 2
+A: cacttcccgagctggagacggagc
+B: cacttcccgaactagagacggagc
+   ==========^  ^==========
+Region:          1 .. 888           486694 .. 487575           8 / 888         0.90%
+> UWOPS05_227_2.chr15 Reverse
+> UWOPS05_227_2.chr06
+> UWOPS05_227_2.chr06 Reverse
+> UWOPS05_227_2.chr16
+> UWOPS05_227_2.chr16 Reverse
+> UWOPS05_227_2.chr07
+> UWOPS05_227_2.chr07 Reverse
+> UWOPS05_227_2.chr08
+> UWOPS05_227_2.chr08 Reverse
+> UWOPS05_227_2.chr09
+> UWOPS05_227_2.chr09 Reverse

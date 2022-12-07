@@ -1,0 +1,63 @@
+> CM008200.1
+> CM008200.1 Reverse
+> CM008201.1
+> CM008201.1 Reverse
+> CM008202.1
+> CM008202.1 Reverse
+> CM008203.1
+> CM008203.1 Reverse
+> CM008204.1
+> CM008204.1 Reverse
+> CM008205.1
+> CM008205.1 Reverse
+> CM008206.1
+> CM008206.1 Reverse
+> CM008207.1
+> CM008207.1 Reverse
+> CM008208.1
+> CM008208.1 Reverse
+> CM008209.1
+> CM008209.1 Reverse
+> CM008210.1
+> CM008210.1 Reverse
+> MZZG01000011.1
+> MZZG01000011.1 Reverse
+> MZZG01000013.1
+> MZZG01000013.1 Reverse
+> MZZG01000019.1
+> MZZG01000019.1 Reverse
+> MZZG01000020.1
+> MZZG01000020.1 Reverse
+> MZZG01000021.1
+> MZZG01000021.1 Reverse
+> MZZG01000023.1
+> MZZG01000023.1 Reverse
+> CM008211.1
+> CM008211.1 Reverse
+> MZZG01000008.1
+> MZZG01000008.1 Reverse
+> MZZG01000018.1
+> MZZG01000018.1 Reverse
+> CM008212.1
+       1   447708     32    none      -      -
+      34   447741    524    none      1      1
+     Errors = 1
+A: gaagcaggactagcgatgaac
+B: gaagcaggaccagcgatgaac
+   ==========^==========
+     559   448266     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   448320    276    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+Region:          1 .. 888           447708 .. 448595           3 / 888         0.34%
+> CM008212.1 Reverse
+> CM008213.1
+> CM008213.1 Reverse
+> MZZG01000022.1
+> MZZG01000022.1 Reverse

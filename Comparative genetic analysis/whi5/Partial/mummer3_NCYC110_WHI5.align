@@ -1,0 +1,53 @@
+> NCYC110.chr10
+> NCYC110.chr10 Reverse
+> NCYC110.chrm
+> NCYC110.chrm Reverse
+> NCYC110.chr01
+> NCYC110.chr01 Reverse
+> NCYC110.chr11
+> NCYC110.chr11 Reverse
+> NCYC110.scplasm1
+> NCYC110.scplasm1 Reverse
+> NCYC110.chr02
+> NCYC110.chr02 Reverse
+> NCYC110.chr12
+> NCYC110.chr12 Reverse
+> NCYC110.chr03
+> NCYC110.chr03 Reverse
+> NCYC110.chr13
+> NCYC110.chr13 Reverse
+> NCYC110.chr04
+> NCYC110.chr04 Reverse
+> NCYC110.chr14
+> NCYC110.chr14 Reverse
+> NCYC110.chr05
+> NCYC110.chr05 Reverse
+> NCYC110.chr15
+       1   486437     32    none      -      -
+      34   486470    524    none      1      1
+     Errors = 1
+A: gaagcaggactagcgatgaac
+B: gaagcaggaccagcgatgaac
+   ==========^==========
+     559   486995     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   487049    276    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+Region:          1 .. 888           486437 .. 487324           3 / 888         0.34%
+> NCYC110.chr15 Reverse
+> NCYC110.chr06
+> NCYC110.chr06 Reverse
+> NCYC110.chr16
+> NCYC110.chr16 Reverse
+> NCYC110.chr07
+> NCYC110.chr07 Reverse
+> NCYC110.chr08
+> NCYC110.chr08 Reverse
+> NCYC110.chr09
+> NCYC110.chr09 Reverse

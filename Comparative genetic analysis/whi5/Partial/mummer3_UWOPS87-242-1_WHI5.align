@@ -1,0 +1,48 @@
+> UWOPS87_2421.chr10
+> UWOPS87_2421.chr10 Reverse
+> UWOPS87_2421.chrm
+> UWOPS87_2421.chrm Reverse
+> UWOPS87_2421.chr01
+> UWOPS87_2421.chr01 Reverse
+> UWOPS87_2421.chr11
+> UWOPS87_2421.chr11 Reverse
+> UWOPS87_2421.scplasm1
+> UWOPS87_2421.scplasm1 Reverse
+> UWOPS87_2421.chr02
+> UWOPS87_2421.chr02 Reverse
+> UWOPS87_2421.chr12
+> UWOPS87_2421.chr12 Reverse
+> UWOPS87_2421.chr03
+> UWOPS87_2421.chr03 Reverse
+> UWOPS87_2421.chr13
+> UWOPS87_2421.chr13 Reverse
+> UWOPS87_2421.chr04
+> UWOPS87_2421.chr04 Reverse
+> UWOPS87_2421.chr14
+> UWOPS87_2421.chr14 Reverse
+> UWOPS87_2421.chr05
+> UWOPS87_2421.chr05 Reverse
+> UWOPS87_2421.chr15
+       1   483838    557    none      -      -
+     559   484396     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   484450    276    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+Region:          1 .. 888           483838 .. 484725           2 / 888         0.23%
+> UWOPS87_2421.chr15 Reverse
+> UWOPS87_2421.chr06
+> UWOPS87_2421.chr06 Reverse
+> UWOPS87_2421.chr16
+> UWOPS87_2421.chr16 Reverse
+> UWOPS87_2421.chr07
+> UWOPS87_2421.chr07 Reverse
+> UWOPS87_2421.chr08
+> UWOPS87_2421.chr08 Reverse
+> UWOPS87_2421.chr09
+> UWOPS87_2421.chr09 Reverse

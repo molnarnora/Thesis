@@ -1,0 +1,63 @@
+> 273614N.chr10
+> 273614N.chr10 Reverse
+> 273614N.chrm
+> 273614N.chrm Reverse
+> 273614N.chr01
+> 273614N.chr01 Reverse
+> 273614N.chr11
+> 273614N.chr11 Reverse
+> 273614N.scplasm1
+> 273614N.scplasm1 Reverse
+> 273614N.chr02
+> 273614N.chr02 Reverse
+> 273614N.chr12
+> 273614N.chr12 Reverse
+> 273614N.chr03
+> 273614N.chr03 Reverse
+> 273614N.chr13
+> 273614N.chr13 Reverse
+> 273614N.chr04
+> 273614N.chr04 Reverse
+> 273614N.chr14
+> 273614N.chr14 Reverse
+> 273614N.chr05
+> 273614N.chr05 Reverse
+> 273614N.chr15
+       1   482467    176    none      -      -
+     178   482644    380    none      1      1
+     Errors = 1
+A: gaacaccatcgccgccgtcac
+B: gaacaccatcaccgccgtcac
+   ==========^==========
+     559   483025     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   483079     41    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+     655   483121    149    none      1      1
+     Errors = 1
+A: cgccgccacgtcgctatcaca
+B: cgccgccacgccgctatcaca
+   ==========^==========
+     805   483271     84    none      1      1
+     Errors = 1
+A: agaagcaacaacaccgacccg
+B: agaagcaacagcaccgacccg
+   ==========^==========
+Region:          1 .. 888           482467 .. 483354           5 / 888         0.56%
+> 273614N.chr15 Reverse
+> 273614N.chr06
+> 273614N.chr06 Reverse
+> 273614N.chr16
+> 273614N.chr16 Reverse
+> 273614N.chr07
+> 273614N.chr07 Reverse
+> 273614N.chr08
+> 273614N.chr08 Reverse
+> 273614N.chr09
+> 273614N.chr09 Reverse

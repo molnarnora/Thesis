@@ -1,0 +1,53 @@
+> YPS606.chr10
+> YPS606.chr10 Reverse
+> YPS606.chrm
+> YPS606.chrm Reverse
+> YPS606.chr01
+> YPS606.chr01 Reverse
+> YPS606.chr11
+> YPS606.chr11 Reverse
+> YPS606.scplasm1
+> YPS606.scplasm1 Reverse
+> YPS606.chr02
+> YPS606.chr02 Reverse
+> YPS606.chr12
+> YPS606.chr12 Reverse
+> YPS606.chr03
+> YPS606.chr03 Reverse
+> YPS606.chr13
+> YPS606.chr13 Reverse
+> YPS606.chr04
+> YPS606.chr04 Reverse
+> YPS606.chr14
+> YPS606.chr14 Reverse
+> YPS606.chr05
+> YPS606.chr05 Reverse
+> YPS606.chr15
+       1   478952     32    none      -      -
+      34   478985    524    none      1      1
+     Errors = 1
+A: gaagcaggactagcgatgaac
+B: gaagcaggaccagcgatgaac
+   ==========^==========
+     559   479510     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   479564    276    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+Region:          1 .. 888           478952 .. 479839           3 / 888         0.34%
+> YPS606.chr15 Reverse
+> YPS606.chr06
+> YPS606.chr06 Reverse
+> YPS606.chr16
+> YPS606.chr16 Reverse
+> YPS606.chr07
+> YPS606.chr07 Reverse
+> YPS606.chr08
+> YPS606.chr08 Reverse
+> YPS606.chr09
+> YPS606.chr09 Reverse

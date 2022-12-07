@@ -1,0 +1,53 @@
+> DBVPG1853.chr10
+> DBVPG1853.chr10 Reverse
+> DBVPG1853.chrm
+> DBVPG1853.chrm Reverse
+> DBVPG1853.chr01
+> DBVPG1853.chr01 Reverse
+> DBVPG1853.chr11
+> DBVPG1853.chr11 Reverse
+> DBVPG1853.scplasm1
+> DBVPG1853.scplasm1 Reverse
+> DBVPG1853.chr02
+> DBVPG1853.chr02 Reverse
+> DBVPG1853.chr12
+> DBVPG1853.chr12 Reverse
+> DBVPG1853.chr03
+> DBVPG1853.chr03 Reverse
+> DBVPG1853.chr13
+> DBVPG1853.chr13 Reverse
+> DBVPG1853.chr04
+> DBVPG1853.chr04 Reverse
+> DBVPG1853.chr14
+> DBVPG1853.chr14 Reverse
+> DBVPG1853.chr05
+> DBVPG1853.chr05 Reverse
+> DBVPG1853.chr15
+       1   478130     32    none      -      -
+      34   478163    524    none      1      1
+     Errors = 1
+A: gaagcaggactagcgatgaac
+B: gaagcaggaccagcgatgaac
+   ==========^==========
+     559   478688     53    none      1      1
+     Errors = 1
+A: gcaccaggctcaattacgcgt
+B: gcaccaggcttaattacgcgt
+   ==========^==========
+     613   478742    276    none      1      1
+     Errors = 1
+A: cacttcccgagctggagacgg
+B: cacttcccgaactggagacgg
+   ==========^==========
+Region:          1 .. 888           478130 .. 479017           3 / 888         0.34%
+> DBVPG1853.chr15 Reverse
+> DBVPG1853.chr06
+> DBVPG1853.chr06 Reverse
+> DBVPG1853.chr16
+> DBVPG1853.chr16 Reverse
+> DBVPG1853.chr07
+> DBVPG1853.chr07 Reverse
+> DBVPG1853.chr08
+> DBVPG1853.chr08 Reverse
+> DBVPG1853.chr09
+> DBVPG1853.chr09 Reverse
