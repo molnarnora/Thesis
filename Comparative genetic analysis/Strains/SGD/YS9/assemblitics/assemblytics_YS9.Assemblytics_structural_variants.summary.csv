@@ -1,0 +1,38 @@
+Insertion
+Size range,Count,Total bp
+50-500 bp,108,8528
+500-10000 bp,0,0
+Total,108,8528
+
+Deletion
+Size range,Count,Total bp
+50-500 bp,18,3456
+500-10000 bp,3,12525
+Total,21,15981
+
+Tandem_expansion
+Size range,Count,Total bp
+50-500 bp,0,0
+500-10000 bp,0,0
+Total,0,0
+
+Tandem_contraction
+Size range,Count,Total bp
+50-500 bp,1,102
+500-10000 bp,0,0
+Total,1,102
+
+Repeat_expansion
+Size range,Count,Total bp
+50-500 bp,34,2901
+500-10000 bp,0,0
+Total,34,2901
+
+Repeat_contraction
+Size range,Count,Total bp
+50-500 bp,12,3210
+500-10000 bp,9,35885
+Total,21,39095
+
+Total for all variants,185,66607 bp
+Total for all structural variants,185,66607 bp

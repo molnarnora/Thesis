@@ -1,0 +1,16 @@
+Reference: S288C_reference_sequence_R64-2-1_20150113.fsa
+Number of sequences: 17
+Total sequence length: 12.16 Mbp
+Mean: 715.12 Kbp
+Min: 85.78 Kbp
+Max: 1.53 Mbp
+N50: 924.43 Kbp
+
+
+Query: YS9_Stanford_2014_JRIB00000000.fsa
+Number of sequences: 801
+Total sequence length: 11.5 Mbp
+Mean: 14.36 Kbp
+Min: 201 bp
+Max: 142.66 Kbp
+N50: 30.92 Kbp
