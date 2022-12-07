@@ -1,0 +1,16 @@
+Reference: S288C_reference.fsa
+Number of sequences: 17
+Total sequence length: 12.16 Mbp
+Mean: 715.12 Kbp
+Min: 85.78 Kbp
+Max: 1.53 Mbp
+N50: 924.43 Kbp
+
+
+Query: YJM981_b.fa
+Number of sequences: 1,027
+Total sequence length: 11.71 Mbp
+Mean: 11.4 Kbp
+Min: 65 bp
+Max: 458.34 Kbp
+N50: 178.48 Kbp
