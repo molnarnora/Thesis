@@ -1,0 +1,657 @@
+/home/nora/Documents/Diplomamunka/Genes-in-Strains/SGD/BC187/BC187_Stanford_2014_JRII00000000.fsa /home/nora/Documents/Diplomamunka/Genes-in-Strains/SGD/BC187/all_Genes.fsa
+NUCMER
+>gi696438344gbJRII01000124.1SaccharomycescerevisiaeBC187scaffold-127,wholegenomeshotgunsequence[length=51357] BC187-YMR086C-A 51357 339
+20714 21052 339 1 2 2 0
+0
+>gi696438661gbJRII01000040.1SaccharomycescerevisiaeBC187scaffold-39,wholegenomeshotgunsequence[length=47434] DBVPG1788-1b-YHR131W-A 47434 246
+27517 27762 1 246 0 0 0
+0
+>gi696438182gbJRII01000165.1SaccharomycescerevisiaeBC187scaffold-171,wholegenomeshotgunsequence[length=30798] K11-HHY1 30798 309
+11164 11470 1 309 3 3 0
+-197
+-1
+0
+>gi696437676gbJRII01000305.1SaccharomycescerevisiaeBC187scaffold-322,wholegenomeshotgunsequence[length=40285] L1528-YOR293C-A 40285 150
+18549 18700 150 1 6 6 0
+61
+1
+0
+>gi696437992gbJRII01000213.1SaccharomycescerevisiaeBC187scaffold-222,wholegenomeshotgunsequence[length=84860] UWOPS03-461-4-YMR294W-A 84860 360
+15722 16078 360 1 4 4 0
+-239
+-1
+-1
+0
+>gi696436795gbJRII01000555.1SaccharomycescerevisiaeBC187unplaced-46,wholegenomeshotgunsequence[length=401] Y12-YMR326C 401 309
+1 252 17 266 29 29 0
+155
+61
+0
+>gi696436756gbJRII01000565.1SaccharomycescerevisiaeBC187unplaced-56,wholegenomeshotgunsequence[length=3674] Y12-YMR326C 3674 309
+2980 3160 131 309 12 12 0
+41
+60
+0
+>gi696436630gbJRII01000599.1SaccharomycescerevisiaeBC187unplaced-101,wholegenomeshotgunsequence[length=319] YPS12-AI5_BETA 319 1100
+1 319 569 887 2 2 0
+0
+>gi696437799gbJRII01000266.1SaccharomycescerevisiaeBC187scaffold-281,wholegenomeshotgunsequence[length=73796] YPS12-TIR1 73796 765
+50015 50743 765 1 36 36 0
+-302
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+>gi696438557gbJRII01000068.1SaccharomycescerevisiaeBC187scaffold-68,wholegenomeshotgunsequence[length=57525] Sigma-YER119C-A 57525 372
+19527 19897 1 372 4 4 0
+-249
+0
+>gi696437205gbJRII01000443.1SaccharomycescerevisiaeBC187scaffold-467,wholegenomeshotgunsequence[length=40500] Sigma-YGL109W 40500 324
+15682 16004 324 1 2 2 0
+-247
+0
+>gi696437205gbJRII01000443.1SaccharomycescerevisiaeBC187scaffold-467,wholegenomeshotgunsequence[length=40500] Sigma-YGL118C 40500 438
+31061 31496 1 438 2 2 0
+-74
+-1
+0
+>gi696437866gbJRII01000247.1SaccharomycescerevisiaeBC187scaffold-261,wholegenomeshotgunsequence[length=99152] Sigma-YGL177W 99152 348
+11268 11613 1 348 6 6 0
+-79
+-1
+0
+>gi696437527gbJRII01000353.1SaccharomycescerevisiaeBC187scaffold-372,wholegenomeshotgunsequence[length=5889] Sigma-YCR024C-B 5889 267
+1 265 266 1 3 3 0
+-122
+0
+>gi696438735gbJRII01000022.1SaccharomycescerevisiaeBC187scaffold-21,wholegenomeshotgunsequence[length=32080] Sigma-YCR087W 32080 516
+27737 28237 516 1 17 17 0
+-262
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-4
+-1
+-6
+-1
+-1
+-1
+0
+>gi696437031gbJRII01000491.1SaccharomycescerevisiaeBC187scaffold-517,wholegenomeshotgunsequence[length=36060] Sigma-YDL162C 36060 357
+1967 2322 1 357 2 2 0
+-193
+0
+>gi696437705gbJRII01000295.1SaccharomycescerevisiaeBC187scaffold-312,wholegenomeshotgunsequence[length=27848] Sigma-NUM1 27848 8247
+6961 8960 1 1974 43 43 0
+1837
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+8823 8960 2647 2784 9 9 0
+0
+8823 8960 2839 2976 5 5 0
+0
+8823 8960 3031 3168 5 5 0
+0
+8823 8960 3607 3744 8 8 0
+0
+8823 8960 3799 3936 5 5 0
+0
+8823 13079 3991 8247 24 24 0
+0
+8823 8984 2455 2616 11 11 0
+0
+>gi696437001gbJRII01000499.1SaccharomycescerevisiaeBC187scaffold-525,wholegenomeshotgunsequence[length=23572] Sigma-YGR069W 23572 336
+8084 8399 336 1 20 20 0
+-212
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+>gi696437815gbJRII01000261.1SaccharomycescerevisiaeBC187scaffold-276,wholegenomeshotgunsequence[length=73932] Sigma-YGR114C 73932 390
+66495 66884 390 1 0 0 0
+0
+>gi696437815gbJRII01000261.1SaccharomycescerevisiaeBC187scaffold-276,wholegenomeshotgunsequence[length=73932] Sigma-YGR115C 73932 780
+66602 67381 780 1 0 0 0
+0
+>gi696437098gbJRII01000473.1SaccharomycescerevisiaeBC187scaffold-499,wholegenomeshotgunsequence[length=5437] Sigma-YGR121W-A 5437 216
+2634 2849 1 216 0 0 0
+0
+>gi696437656gbJRII01000311.1SaccharomycescerevisiaeBC187scaffold-328,wholegenomeshotgunsequence[length=63449] Sigma-YHR095W 63449 495
+46488 46977 495 1 7 7 0
+-161
+-1
+-1
+-1
+-197
+0
+>gi696437830gbJRII01000257.1SaccharomycescerevisiaeBC187scaffold-272,wholegenomeshotgunsequence[length=54823] Sigma-YIR018C-A 54823 138
+32249 32387 1 138 1 1 0
+61
+0
+>gi696436671gbJRII01000588.1SaccharomycescerevisiaeBC187unplaced-189,wholegenomeshotgunsequence[length=5956] Sigma-YKR040C 5956 504
+1 447 447 1 3 3 0
+0
+>gi696437683gbJRII01000302.1SaccharomycescerevisiaeBC187scaffold-319,wholegenomeshotgunsequence[length=13003] Sigma-YLL047W 13003 384
+11115 11498 1 384 0 0 0
+0
+>gi696437045gbJRII01000487.1SaccharomycescerevisiaeBC187scaffold-513,wholegenomeshotgunsequence[length=55041] Sigma-YLR255C 55041 354
+19142 19507 354 1 12 12 0
+170
+1
+1
+1
+1
+1
+13
+1
+1
+1
+1
+1
+0
+>gi696437567gbJRII01000341.1SaccharomycescerevisiaeBC187scaffold-359,wholegenomeshotgunsequence[length=7665] Sigma-YOL166C 7665 339
+1 166 166 1 8 8 0
+0
+>gi696438654gbJRII01000042.1SaccharomycescerevisiaeBC187scaffold-41,wholegenomeshotgunsequence[length=47468] W303-ECM1 47468 639
+37857 38495 639 1 8 8 0
+0
+>gi696437250gbJRII01000431.1SaccharomycescerevisiaeBC187scaffold-453,wholegenomeshotgunsequence[length=8425] W303-YAL069W 8425 315
+14 238 91 315 15 15 0
+30
+-49
+0
+>gi696436837gbJRII01000544.1SaccharomycescerevisiaeBC187unplaced-34,wholegenomeshotgunsequence[length=624] W303-YAL069W 624 315
+282 605 315 1 38 38 0
+-170
+-1
+-1
+-1
+-1
+67
+1
+1
+4
+5
+1
+1
+1
+3
+1
+1
+5
+9
+2
+0
+>gi696436752gbJRII01000566.1SaccharomycescerevisiaeBC187unplaced-57,wholegenomeshotgunsequence[length=424] W303-YBL109W 424 336
+114 332 61 279 27 27 0
+37
+-27
+0
+>gi696437398gbJRII01000390.1SaccharomycescerevisiaeBC187scaffold-411,wholegenomeshotgunsequence[length=60979] W303-YBR072C-A 60979 162
+29251 29413 162 1 4 4 0
+67
+0
+>gi696437352gbJRII01000404.1SaccharomycescerevisiaeBC187scaffold-425,wholegenomeshotgunsequence[length=15579] W303-YDR320W-B 15579 138
+14074 14212 2 138 3 3 0
+28
+104
+0
+>gi696437450gbJRII01000376.1SaccharomycescerevisiaeBC187scaffold-396,wholegenomeshotgunsequence[length=13403] W303-AUA1 13403 285
+2756 3010 285 1 34 34 0
+-114
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+>gi696437227gbJRII01000437.1SaccharomycescerevisiaeBC187scaffold-461,wholegenomeshotgunsequence[length=38055] W303-YGR051C 38055 324
+19479 19802 324 1 5 5 0
+0
+>gi696438155gbJRII01000172.1SaccharomycescerevisiaeBC187scaffold-178,wholegenomeshotgunsequence[length=27993] W303-YGR182C 27993 354
+3216 3571 354 1 5 5 0
+120
+144
+0
+>gi696438195gbJRII01000161.1SaccharomycescerevisiaeBC187scaffold-167,wholegenomeshotgunsequence[length=25279] W303-YHR028W-A 25279 321
+19320 19606 288 1 10 10 0
+-80
+0
+>gi696438028gbJRII01000204.1SaccharomycescerevisiaeBC187scaffold-212,wholegenomeshotgunsequence[length=92778] W303-YKL066W 92778 444
+28301 28744 1 444 4 4 0
+-121
+210
+0
+>gi696437787gbJRII01000270.1SaccharomycescerevisiaeBC187scaffold-285,wholegenomeshotgunsequence[length=112561] W303-YLR406C-A 112561 150
+62199 62349 1 150 2 2 0
+112
+0
+>gi696437519gbJRII01000356.1SaccharomycescerevisiaeBC187scaffold-375,wholegenomeshotgunsequence[length=87868] W303-YMR052C-A 87868 366
+46717 47080 366 1 4 4 0
+-255
+-1
+0
+>gi696438214gbJRII01000157.1SaccharomycescerevisiaeBC187scaffold-163,wholegenomeshotgunsequence[length=58686] W303-YNL143C 58686 393
+2198 2568 1 393 22 22 0
+-153
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-84
+0
+>gi696437175gbJRII01000451.1SaccharomycescerevisiaeBC187scaffold-475,wholegenomeshotgunsequence[length=87718] W303-YOL013W-A 87718 192
+24866 25055 192 1 4 4 0
+-166
+-1
+0
+>gi696438095gbJRII01000188.1SaccharomycescerevisiaeBC187scaffold-195,wholegenomeshotgunsequence[length=78263] W303-YOL079W 78263 399
+56913 57311 399 1 6 6 0
+0
+>gi696436627gbJRII01000600.1SaccharomycescerevisiaeBC187unplaced-13,wholegenomeshotgunsequence[length=3105] W303-AI2 3105 5013
+638 3033 5013 2618 2 2 0
+0
+>gi696438384gbJRII01000113.1SaccharomycescerevisiaeBC187scaffold-115,wholegenomeshotgunsequence[length=26222] W303-YAL031W-A 26222 309
+9608 9916 1 309 1 1 0
+0
+>gi696438384gbJRII01000113.1SaccharomycescerevisiaeBC187scaffold-115,wholegenomeshotgunsequence[length=26222] W303-YAL034C-B 26222 354
+4428 4781 354 1 0 0 0
+0
+>gi696438611gbJRII01000053.1SaccharomycescerevisiaeBC187scaffold-52,wholegenomeshotgunsequence[length=34447] W303-YBR226C 34447 411
+20936 21347 1 411 5 5 0
+219
+0
+>gi696437955gbJRII01000223.1SaccharomycescerevisiaeBC187scaffold-232,wholegenomeshotgunsequence[length=6545] W303-YCL041C 6545 495
+6335 6545 1 212 6 6 0
+40
+-35
+-1
+0
+>gi696437721gbJRII01000291.1SaccharomycescerevisiaeBC187scaffold-308,wholegenomeshotgunsequence[length=8266] W303-YCL041C 8266 495
+1 193 303 495 1 1 0
+0
+>gi696438235gbJRII01000152.1SaccharomycescerevisiaeBC187scaffold-158,wholegenomeshotgunsequence[length=81564] W303-YDL009C 81564 324
+38924 39247 1 324 2 2 0
+0
+>gi696438235gbJRII01000152.1SaccharomycescerevisiaeBC187scaffold-158,wholegenomeshotgunsequence[length=81564] W303-YDR010C 81564 333
+7541 7839 1 302 5 5 0
+-121
+-102
+-1
+0
+>gi696438460gbJRII01000093.1SaccharomycescerevisiaeBC187scaffold-95,wholegenomeshotgunsequence[length=13133] W303-YDR114C 13133 303
+9024 9326 1 303 0 0 0
+0
+>gi696438529gbJRII01000075.1SaccharomycescerevisiaeBC187scaffold-75,wholegenomeshotgunsequence[length=51704] W303-URC2 51704 2319
+9466 11784 2319 1 0 0 0
+0
+>gi696438529gbJRII01000075.1SaccharomycescerevisiaeBC187scaffold-75,wholegenomeshotgunsequence[length=51704] W303-YDR535C 51704 757
+34666 35422 757 1 6 6 0
+0
+>gi696437581gbJRII01000336.1SaccharomycescerevisiaeBC187scaffold-354,wholegenomeshotgunsequence[length=13954] W303-YEL045C 13954 426
+3358 3783 426 1 0 0 0
+0
+>gi696438182gbJRII01000165.1SaccharomycescerevisiaeBC187scaffold-171,wholegenomeshotgunsequence[length=30798] W303-HHY1 30798 309
+11164 11470 1 309 3 3 0
+-197
+-1
+0
+>gi696438670gbJRII01000038.1SaccharomycescerevisiaeBC187scaffold-37,wholegenomeshotgunsequence[length=8645] W303-YEL067C 8645 588
+3418 4005 588 1 7 7 0
+0
+>gi696438347gbJRII01000123.1SaccharomycescerevisiaeBC187scaffold-125,wholegenomeshotgunsequence[length=23047] W303-YER046W-A 23047 330
+1 192 139 330 3 3 0
+0
+>gi696437083gbJRII01000477.1SaccharomycescerevisiaeBC187scaffold-503,wholegenomeshotgunsequence[length=17002] W303-YER076W-A 17002 348
+6571 6918 1 348 0 0 0
+0
+>gi696438312gbJRII01000132.1SaccharomycescerevisiaeBC187scaffold-135,wholegenomeshotgunsequence[length=30422] W303-YGR146C-A 30422 162
+22973 23134 1 162 0 0 0
+0
+>gi696437927gbJRII01000231.1SaccharomycescerevisiaeBC187scaffold-244,wholegenomeshotgunsequence[length=21671] W303-YHR007C-A 21671 216
+10455 10670 1 216 1 1 0
+0
+>gi696438521gbJRII01000077.1SaccharomycescerevisiaeBC187scaffold-77,wholegenomeshotgunsequence[length=15168] W303-ECM12 15168 456
+11953 12408 456 1 8 8 0
+0
+>gi696438209gbJRII01000158.1SaccharomycescerevisiaeBC187scaffold-164,wholegenomeshotgunsequence[length=6578] W303-YHR070C-A 6578 411
+5861 6271 411 1 4 4 0
+0
+>gi696437847gbJRII01000253.1SaccharomycescerevisiaeBC187scaffold-268,wholegenomeshotgunsequence[length=39374] W303-YHR071C-A 39374 321
+1860 2179 321 1 4 4 0
+-70
+0
+>gi696436955gbJRII01000512.1SaccharomycescerevisiaeBC187scaffold-540,wholegenomeshotgunsequence[length=29369] W303-YIL163C 29369 354
+14721 15077 354 1 3 3 0
+314
+1
+1
+0
+>gi696436741gbJRII01000569.1SaccharomycescerevisiaeBC187unplaced-62,wholegenomeshotgunsequence[length=1076] W303-YIL175W 1076 318
+1 214 103 316 9 9 0
+0
+>gi696437830gbJRII01000257.1SaccharomycescerevisiaeBC187scaffold-272,wholegenomeshotgunsequence[length=54823] W303-YIR017W-A 54823 600
+33785 34384 600 1 1 1 0
+0
+>gi696437830gbJRII01000257.1SaccharomycescerevisiaeBC187scaffold-272,wholegenomeshotgunsequence[length=54823] W303-YIR020W-A 54823 243
+24231 24473 243 1 5 5 0
+0
+>gi696438480gbJRII01000088.1SaccharomycescerevisiaeBC187scaffold-90,wholegenomeshotgunsequence[length=135217] W303-ICS3 135217 396
+43898 44293 1 396 0 0 0
+0
+>gi696438435gbJRII01000099.1SaccharomycescerevisiaeBC187scaffold-101,wholegenomeshotgunsequence[length=53476] W303-IRC9 53476 393
+5074 5466 1 393 1 1 0
+0
+>gi696438435gbJRII01000099.1SaccharomycescerevisiaeBC187scaffold-101,wholegenomeshotgunsequence[length=53476] W303-YJL156W-A 53476 222
+26445 26667 222 1 5 5 0
+20
+1
+1
+-78
+-1
+0
+>gi696438688gbJRII01000033.1SaccharomycescerevisiaeBC187scaffold-32,wholegenomeshotgunsequence[length=83493] W303-YJL182C 83493 318
+79731 80046 318 1 7 7 0
+-102
+-1
+0
+>gi696438688gbJRII01000033.1SaccharomycescerevisiaeBC187scaffold-32,wholegenomeshotgunsequence[length=83493] W303-YJL215C 83493 360
+20533 20891 360 1 8 8 0
+-108
+0
+>gi696438627gbJRII01000049.1SaccharomycescerevisiaeBC187scaffold-48,wholegenomeshotgunsequence[length=8706] W303-YJL220W 8706 453
+3478 3627 150 1 9 9 0
+0
+>gi696437593gbJRII01000332.1SaccharomycescerevisiaeBC187scaffold-350,wholegenomeshotgunsequence[length=63036] W303-YJR115W 63036 510
+26782 27289 510 1 2 2 0
+-421
+-1
+0
+>gi696437879gbJRII01000243.1SaccharomycescerevisiaeBC187scaffold-257,wholegenomeshotgunsequence[length=57609] W303-YKL030W 57609 606
+57304 57609 606 301 1 1 0
+0
+>gi696436817gbJRII01000549.1SaccharomycescerevisiaeBC187unplaced-39,wholegenomeshotgunsequence[length=2817] W303-YKL031W 2817 414
+2482 2817 1 336 2 2 0
+0
+>gi696438251gbJRII01000148.1SaccharomycescerevisiaeBC187scaffold-154,wholegenomeshotgunsequence[length=26326] W303-YKL115C 26326 393
+10393 10786 393 1 4 4 0
+362
+0
+>gi696437587gbJRII01000334.1SaccharomycescerevisiaeBC187scaffold-352,wholegenomeshotgunsequence[length=17522] W303-YLR184W 17522 348
+8282 8627 348 1 4 4 0
+-195
+-1
+-1
+30
+0
+>gi696437121gbJRII01000467.1SaccharomycescerevisiaeBC187scaffold-493,wholegenomeshotgunsequence[length=66342] W303-YLR311C 66342 348
+5186 5522 348 1 18 18 0
+-126
+-1
+-1
+-8
+-21
+-56
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+112
+1
+0
+>gi696437121gbJRII01000467.1SaccharomycescerevisiaeBC187scaffold-493,wholegenomeshotgunsequence[length=66342] W303-YLR342W-A 66342 174
+63619 63792 1 174 10 10 0
+-60
+-1
+36
+1
+0
+>gi696437787gbJRII01000270.1SaccharomycescerevisiaeBC187scaffold-285,wholegenomeshotgunsequence[length=112561] W303-YLR412C-A 112561 207
+50046 50251 1 207 6 6 0
+-115
+12
+-32
+0
+>gi696437238gbJRII01000434.1SaccharomycescerevisiaeBC187scaffold-456,wholegenomeshotgunsequence[length=6534] W303-YLR444C 6534 303
+5246 5548 303 1 2 2 0
+0
+>gi696438035gbJRII01000202.1SaccharomycescerevisiaeBC187scaffold-210,wholegenomeshotgunsequence[length=36902] W303-YML099W-A 36902 330
+24334 24663 1 330 2 2 0
+0
+>gi696438289gbJRII01000138.1SaccharomycescerevisiaeBC187scaffold-141,wholegenomeshotgunsequence[length=93499] W303-YOR024W 93499 324
+22587 22910 1 324 5 5 0
+0
+>gi696438289gbJRII01000138.1SaccharomycescerevisiaeBC187scaffold-141,wholegenomeshotgunsequence[length=93499] W303-YOR050C 93499 348
+69141 69488 348 1 5 5 0
+0
+>gi696438289gbJRII01000138.1SaccharomycescerevisiaeBC187scaffold-141,wholegenomeshotgunsequence[length=93499] W303-YOR053W 93499 342
+72686 72994 1 342 45 45 0
+-67
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-3
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-25
+-1
+-1
+-1
+-1
+-1
+-13
+-1
+-1
+0
+>gi696437474gbJRII01000369.1SaccharomycescerevisiaeBC187scaffold-389,wholegenomeshotgunsequence[length=104369] W303-FYV12 104369 390
+92757 93143 390 1 7 7 0
+-271
+-32
+-1
+0
+>gi696437474gbJRII01000369.1SaccharomycescerevisiaeBC187scaffold-389,wholegenomeshotgunsequence[length=104369] W303-YOR225W 104369 330
+16649 16977 330 1 1 1 0
+-169
+0
+>gi696437510gbJRII01000359.1SaccharomycescerevisiaeBC187scaffold-378,wholegenomeshotgunsequence[length=47224] W303-YOR331C 47224 558
+20278 20835 558 1 0 0 0
+0
+>gi696436896gbJRII01000529.1SaccharomycescerevisiaeBC187unplaced-19,wholegenomeshotgunsequence[length=1483] W303-YOR392W 1483 444
+884 1326 1 444 1 1 0
+-215
+0
+>gi696437815gbJRII01000261.1SaccharomycescerevisiaeBC187scaffold-276,wholegenomeshotgunsequence[length=73932] W303-YPR108W-A 73932 213
+13348 13426 110 188 1 1 0
+0
+>gi696438638gbJRII01000046.1SaccharomycescerevisiaeBC187scaffold-45,wholegenomeshotgunsequence[length=38156] W303-YPR108W-A 38156 213
+25015 25227 213 1 0 0 0
+0
+>gi696437902gbJRII01000237.1SaccharomycescerevisiaeBC187scaffold-251,wholegenomeshotgunsequence[length=34422] W303-YPR195C 34422 330
+3441 3770 1 330 2 2 0
+0
+>gi696436706gbJRII01000579.1SaccharomycescerevisiaeBC187unplaced-75,wholegenomeshotgunsequence[length=9548] W303-YPR197C 9548 564
+4678 5241 1 564 0 0 0
+0
+>gi696436706gbJRII01000579.1SaccharomycescerevisiaeBC187unplaced-75,wholegenomeshotgunsequence[length=9548] W303-SGE1 9548 1632
+3474 5105 1632 1 5 5 0
+0
+>gi696436706gbJRII01000579.1SaccharomycescerevisiaeBC187unplaced-75,wholegenomeshotgunsequence[length=9548] W303-ARR1 9548 885
+111 995 1 885 2 2 0
+0
+>gi696436900gbJRII01000528.1SaccharomycescerevisiaeBC187unplaced-18,wholegenomeshotgunsequence[length=3075] W303-ARR3 3075 1215
+1171 2385 1215 1 2 2 0
+0
+>gi696437635gbJRII01000318.1SaccharomycescerevisiaeBC187scaffold-335,wholegenomeshotgunsequence[length=9076] Y55-SRD1 9076 666
+5538 6203 666 1 4 4 0
+0
+>gi696437595gbJRII01000331.1SaccharomycescerevisiaeBC187scaffold-349,wholegenomeshotgunsequence[length=3012] Y55-YFL031C-A 3012 102
+260 361 1 102 1 1 0
+0
+>gi696438369gbJRII01000117.1SaccharomycescerevisiaeBC187scaffold-119,wholegenomeshotgunsequence[length=42899] Y55-YFR057W 42899 456
+896 1351 456 1 0 0 0
+0
+>gi696438683gbJRII01000034.1SaccharomycescerevisiaeBC187scaffold-33,wholegenomeshotgunsequence[length=15898] Y55-YHL041W 15898 450
+14972 15421 450 1 3 3 0
+0
+>gi696437367gbJRII01000399.1SaccharomycescerevisiaeBC187scaffold-420,wholegenomeshotgunsequence[length=10427] Y55-YHR175W-A 10427 150
+8045 8194 150 1 0 0 0
+0
+>gi696437933gbJRII01000229.1SaccharomycescerevisiaeBC187scaffold-242,wholegenomeshotgunsequence[length=14098] Y55-YKL147C 14098 618
+6531 7148 618 1 5 5 0
+0
+>gi696438418gbJRII01000104.1SaccharomycescerevisiaeBC187scaffold-106,wholegenomeshotgunsequence[length=19635] Y55-YLL020C 19635 306
+1 226 226 1 0 0 0
+0
+>gi696438280gbJRII01000140.1SaccharomycescerevisiaeBC187scaffold-143,wholegenomeshotgunsequence[length=8451] Y55-YLR202C 8451 443
+2288 2730 443 1 1 1 0
+0
+>gi696438136gbJRII01000177.1SaccharomycescerevisiaeBC187scaffold-184,wholegenomeshotgunsequence[length=55119] Y55-YLR365W 55119 333
+17982 18314 333 1 4 4 0
+0
+>gi696437371gbJRII01000398.1SaccharomycescerevisiaeBC187scaffold-419,wholegenomeshotgunsequence[length=8389] Y55-YML090W 8389 387
+3554 3941 1 387 4 4 0
+118
+0
+>gi696437289gbJRII01000421.1SaccharomycescerevisiaeBC187scaffold-443,wholegenomeshotgunsequence[length=64247] Y55-YNL089C 64247 477
+22178 22654 1 477 0 0 0
+0
+>gi696438761gbJRII01000015.1SaccharomycescerevisiaeBC187scaffold-14,wholegenomeshotgunsequence[length=3604] Y55-AIF1 3604 1137
+1 1028 1028 1 1 1 0
+0
