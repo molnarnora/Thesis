@@ -1,0 +1,16 @@
+Reference: S288C_reference_sequence_R64-2-1_20150113.fsa
+Number of sequences: 17
+Total sequence length: 12.16 Mbp
+Mean: 715.12 Kbp
+Min: 85.78 Kbp
+Max: 1.53 Mbp
+N50: 924.43 Kbp
+
+
+Query: SK1_SGD_2015_JRIH00000000.fsa
+Number of sequences: 203
+Total sequence length: 11.39 Mbp
+Mean: 56.1 Kbp
+Min: 636 bp
+Max: 326.82 Kbp
+N50: 105.26 Kbp
